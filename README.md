@@ -58,17 +58,10 @@ I've worked on enterprise and customer-facing platforms for **Mercedes-Benz, Šk
 
 ---
 
-## 📊 Development Statistics
-
-![Elahe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elahekaramzade\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elahekaramzade\&layout=compact\&hide_border=true)
-
----
 
 ## 📫 Let's Connect
 
-📍 Berlin, Germany
+📍  Germany
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge\&logo=github)](https://elahekaramzade.github.io/portfolio/)
 
