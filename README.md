@@ -13,34 +13,44 @@ I specialize in **JavaScript, TypeScript, Vue.js, Nuxt.js, React, and Next.js**,
 I've worked on enterprise and customer-facing platforms for **Mercedes-Benz, Škoda Auto, and TARGOBANK**, collaborating with cross-functional teams to build maintainable and high-quality software.
 
 ---
-
 ## 🛠️ Tech Stack
 
-### Frontend Libraries & Frameworks
+### 💻 Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,angular)](https://skillicons.dev)
 
-### UI & Design Systems
+**JavaScript (ES6+) · TypeScript · React · Next.js · Vue.js · Nuxt.js · AngularJS**
 
-[![My Skills](https://skillicons.dev/icons?i=materialui,tailwind,styledcomponents)](https://skillicons.dev)
+### 🔄 State Management
+
+**Redux · Context API · Vuex · Pinia**
+
+### 🎨 UI & Styling
+
+[![My Skills](https://skillicons.dev/icons?i=materialui,tailwind,bootstrap,html,css)](https://skillicons.dev)
+
+**Material UI · Tailwind CSS · Styled Components · Bootstrap · HTML5 · CSS3**
+
+### 🧩 Design Systems & Component Development
 
 **Storybook · Component Libraries · Design Tokens**
 
-### Architecture & CMS
-
-**SSR · SSG · Headless CMS · Strapi · REST APIs · GraphQL**
-
-### Backend & Authentication
+### ⚙️ Backend & Integration
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs)](https://skillicons.dev)
 
-**Keycloak**
+**Node.js (Basic) · NestJS · REST APIs · GraphQL**
 
-### Cloud & DevOps
+### 🗂️ CMS & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,githubactions)](https://skillicons.dev)
+**Strapi · Headless CMS · Firebase · Heroku**
 
-**CI/CD · Pulumi**
+### ☁️ Cloud & DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,githubactions,git)](https://skillicons.dev)
+
+**Azure · Docker · CI/CD · GitHub Actions · Git**
+
 
 ---
 
